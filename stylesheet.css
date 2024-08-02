@@ -1,0 +1,55 @@
+.D {
+  border: 1px solid red;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.container-fluid {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.fill-img {
+  position: 100;
+  height: 0%;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.box {
+  margin-bottom: 40px;
+}
+
+.background-container {
+  background-image: url(assets/images/travel-resized.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.background-container2 {
+  background-image: url(assets/images/vacation-spot.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
